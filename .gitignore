@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+
+# Data (large datasets)
+dataset/
+data/
+*.csv
+*.xlsx
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.h5
+
+# YOLO specific
+runs/
+wandb/
+*.cache
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Keep documentation images
+!docs/
+!assets/
+!examples/
