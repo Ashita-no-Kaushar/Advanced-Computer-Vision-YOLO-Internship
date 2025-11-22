@@ -240,15 +240,16 @@ python -c "from ultralytics import YOLO; model = YOLO('runs/detect/train/weights
 
 ***
 
-## Acknowledgments
+## 👨‍💻 Acknowledgments
 
-- **YOLOv8** by Ultralytics  
-- **Roboflow** for dataset management and versioning  
-- **College / Program Name** and **Industry Mentors** for guidance and support  
+- **YOLOv8** by Ultralytics for the powerful object detection framework  
+- **Roboflow** for seamless dataset management and versioning  
+- **College Industrial Skill Development Program** for providing a rigorous learning platform  
+- **Industry Mentors and Academic Supervisors** for their expert guidance ensuring alignment with real-world applications  
 
 ***
 
-## License
+## 📄 License
 
 - **Dataset:** **CC BY 4.0**, as per Roboflow dataset license.  
 
