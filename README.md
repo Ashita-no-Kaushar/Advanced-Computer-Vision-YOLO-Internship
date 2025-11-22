@@ -214,7 +214,7 @@ results = model.predict(test_image_path, conf=0.25)
 ## 6. Results
 
 Check out the flower blooming detection result here:  
-[Flower Blooming Detection Demo Video](https://drive.google.com/file/d/1oLfPQuPtbBZ9-EZvjfdCDJPELskPkexN/view?usp=drive_link)  
+[Flower Blooming Detection Video](https://drive.google.com/file/d/1oLfPQuPtbBZ9-EZvjfdCDJPELskPkexN/view?usp=drive_link)  
 
 *(Click the link to view the result on Google Drive)*
 
